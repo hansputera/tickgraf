@@ -6,4 +6,4 @@ Play tictactoe game with telegram bot with your friend.
 - Crypto (https://nodejs.org/api/crypto.html)
 
 # Configuration
-Change `config.example.js` to `config.js` and fill your bot token there.
+Change file `config.example.js` to `config.js`. And, fill your bot token there.
