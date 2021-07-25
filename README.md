@@ -1,5 +1,5 @@
 # Tictactoe Bot Game
-Play tictactoe game with telegram bot with your friend.
+Play tictactoe game with telegram bot and with your friend.
 
 # Dependencies
 - Telegraf (https://telegraf.js.org)
